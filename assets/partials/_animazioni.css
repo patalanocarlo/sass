@@ -1,0 +1,11 @@
+.grid-item:hover {
+  opacity: 1;
+  transform: translateY(0);
+}
+.grid-item {
+  transform: translateY(-10px);
+  transition: opacity 0.7s ease, transform 0.7s ease;
+}
+.btn {
+  transition: background-color 0.8s ease;
+}

@@ -1,0 +1,39 @@
+.navbar {
+  background-color: black;
+}
+.navbar-link {
+  color: white;
+}
+.btn:hover {
+  transform: scale(1.1);
+  background-color: black;
+}
+.btn-primary {
+  background-color: #0e6cff;
+  color: white;
+}
+
+.btn-secondary {
+  background-color: #ff8700;
+  color: white;
+}
+
+.btn-tertiary {
+  background-color: #4caf50;
+  color: white;
+}
+.hero {
+  background-color: #640fc5;
+  color: white;
+}
+.btn2 {
+  background-color: white;
+  color: #640fc5;
+}
+.grid-item {
+  background-color: white;
+}
+
+.grid-item:hover {
+  background-color: lavender;
+}

@@ -1,0 +1,28 @@
+.navbar-logo {
+  margin-right: auto;
+}
+.navbar-link {
+  padding: 2rem;
+  text-decoration: none;
+}
+.headline {
+  text-align: center;
+  margin-top: 20px;
+}
+.btn {
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  margin: 10px;
+}
+.hero {
+  padding: 30px;
+  margin-top: 2rem;
+}
+.hero-text {
+  max-width: 50%;
+  margin-right: 5rem;
+}
+.title-test {
+  margin-right: 1rem;
+}
